@@ -25,7 +25,6 @@ Welcome to the **Awesome-Domain-Adaptative-FL** repository! This repository is a
 # Papers
 ## Survey
 ## Arxiv Papers
-
 | Title | Date | Links |
 | ----- | ---- | ----- |
 | Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey | 17 Nov 2022 | [Arxiv](https://arxiv.org/abs/2211.10412) \| [Project](https://github.com/xuyu0010/awesome-video-domain-adaptation) |
@@ -39,12 +38,15 @@ Welcome to the **Awesome-Domain-Adaptative-FL** repository! This repository is a
 | Domain Adaptation for Visual Applications: A Comprehensive Survey | 2017 | [Arxiv](https://arxiv.org/abs/1702.05374) |
 
 
-**Journal**
-- Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10128983)
-- A Review of Single-Source Deep Unsupervised Visual Domain Adaptation [[TNNLS 2020]](https://arxiv.org/pdf/2009.00155.pdf)
-- Deep Visual Domain Adaptation: A Survey [[Neurocomputing 2018]](https://arxiv.org/abs/1802.03601v4)
-- A Survey on Deep Transfer Learning [[ICANN2018]](https://arxiv.org/abs/1808.01974v1)
-- Visual domain adaptation: A survey of recent advances [[2015]](https://sci-hub.tw/10.1109/msp.2014.2347059)
+## Journal Papers
+| Title | Journal | Date | Link |
+| ----- | ------- | ---- | ---- |
+| Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving | IEEE Access | 2023 | [Link](https://ieeexplore.ieee.org/document/10128983) |
+| A Review of Single-Source Deep Unsupervised Visual Domain Adaptation | TNNLS | 2020 | [PDF](https://arxiv.org/pdf/2009.00155.pdf) |
+| Deep Visual Domain Adaptation: A Survey | Neurocomputing | 2018 | [Arxiv](https://arxiv.org/abs/1802.03601v4) |
+| A Survey on Deep Transfer Learning | ICANN | 2018 | [Arxiv](https://arxiv.org/abs/1808.01974v1) |
+| Visual domain adaptation: A survey of recent advances | - | 2015 | [Link](https://sci-hub.tw/10.1109/msp.2014.2347059) |
+
 
 ## Theory
 **Arxiv**
