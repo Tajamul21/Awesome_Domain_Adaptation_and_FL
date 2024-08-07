@@ -7,7 +7,7 @@ Copy code
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
-This repo is a collection of AWESOME things about domain adaptation, including papers, code, etc. Feel free to star and fork.
+Welcome to the Awesome-Domain-Adaptative-FL repository! This repository is a treasure trove of all things related to domain adaptation and federated learning. Here, you'll find a carefully curated collection of the most influential papers, useful code, benchmarks, and various other resources that are essential for anyone interested in these cutting-edge fields. Feel free to star and fork the repository to keep up with the latest advancements and contribute to the community.
 
 ## Contents
 
