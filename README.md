@@ -24,16 +24,20 @@ Welcome to the **Awesome-Domain-Adaptative-FL** repository! This repository is a
 
 # Papers
 ## Survey
-**Arxiv**
-- Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey [[17 Nov 2022]](https://arxiv.org/abs/2211.10412) [[project]](https://github.com/xuyu0010/awesome-video-domain-adaptation)
-- A Survey on Deep Domain Adaptation for LiDAR Perception [[7 Jun 2021]](https://arxiv.org/abs/2106.02377)
-- A Comprehensive Survey on Transfer Learning [[7 Nov 2019]](https://arxiv.org/abs/1911.02685)
-- Transfer Adaptation Learning: A Decade Survey [[12 Mar 2019]](https://arxiv.org/abs/1903.04687)
-- A review of single-source unsupervised domain adaptation [[16 Jan 2019]](https://arxiv.org/abs/1901.05335)
-- An introduction to domain adaptation and transfer learning [[31 Dec 2018]](https://arxiv.org/abs/1812.11806v2)
-- A Survey of Unsupervised Deep Domain Adaptation [[6 Dec 2018]](https://arxiv.org/abs/1812.02849v2)
-- Transfer Learning for Cross-Dataset Recognition: A Survey [[2017]](https://sci-hub.tw/https://arxiv.org/abs/1705.04396)
-- Domain Adaptation for Visual Applications: A Comprehensive Survey  [[2017]](https://arxiv.org/abs/1702.05374)
+## Arxiv Papers
+
+| Title | Date | Links |
+| ----- | ---- | ----- |
+| Video Unsupervised Domain Adaptation with Deep Learning: A Comprehensive Survey | 17 Nov 2022 | [Arxiv](https://arxiv.org/abs/2211.10412) \| [Project](https://github.com/xuyu0010/awesome-video-domain-adaptation) |
+| A Survey on Deep Domain Adaptation for LiDAR Perception | 7 Jun 2021 | [Arxiv](https://arxiv.org/abs/2106.02377) |
+| A Comprehensive Survey on Transfer Learning | 7 Nov 2019 | [Arxiv](https://arxiv.org/abs/1911.02685) |
+| Transfer Adaptation Learning: A Decade Survey | 12 Mar 2019 | [Arxiv](https://arxiv.org/abs/1903.04687) |
+| A review of single-source unsupervised domain adaptation | 16 Jan 2019 | [Arxiv](https://arxiv.org/abs/1901.05335) |
+| An introduction to domain adaptation and transfer learning | 31 Dec 2018 | [Arxiv](https://arxiv.org/abs/1812.11806v2) |
+| A Survey of Unsupervised Deep Domain Adaptation | 6 Dec 2018 | [Arxiv](https://arxiv.org/abs/1812.02849v2) |
+| Transfer Learning for Cross-Dataset Recognition: A Survey | 2017 | [Arxiv](https://arxiv.org/abs/1705.04396) |
+| Domain Adaptation for Visual Applications: A Comprehensive Survey | 2017 | [Arxiv](https://arxiv.org/abs/1702.05374) |
+
 
 **Journal**
 - Survey on Unsupervised Domain Adaptation for Semantic Segmentation for Visual Perception in Automated Driving [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10128983)
