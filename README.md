@@ -7,66 +7,18 @@ Welcome to the **Awesome-Domain-Adaptative-FL** repository! This repository is a
 
 ## Contents
 
-### Papers
-- [Survey](#survey)
-- [Theory](#theory)
-- [Explainable](#explainable)
-- [Federated DA](#federated-da)
-- [Source Free DA](#source-free-da)
-- [Unsupervised DA](#unsupervised-da)
-  - [Adversarial Methods](#adversarial-methods)
-  - [Distance-based Methods](#distance-based-methods)
-  - [Information-based Methods](#information-based-methods)
-  - [Optimal Transport](#optimal-transport)
-  - [Incremental Methods](#incremental-methods)
-  - [Semi-Supervised-Learning-Based Methods](#semi-supervised-learning-based-methods)
-  - [Self-training-Based Methods](#self-training-based-methods)
-  - [Self-Supervised Methods](#self-supervised-methods)
-  - [Transformer-based Methods](#transformer-based-methods)
-  - [Other Methods](#other-methods)
-- [Semi-supervised DA](#semi-supervised-da), [Weakly-Supervised DA](#weakly-supervised-da),
-- [Zero-shot DA](#zero-shot-da), [One-shot DA](#one-shot-da), [Few-shot UDA](#few-shot-uda), [Few-shot DA](#few-shot-da)
-- [Partial DA](#partial-da). [Open Set DA](#open-set-da), [Universal DA](#universal-da), [Open Compound DA](#open-compound-da)
-- [Multi Source DA](#multi-source-da), [Multi Target DA](#multi-target-da)
-- [Incremental DA](#incremental-da), [Multi Step DA](#multi-step-da)
-- [Heterogeneous DA](#heterogeneous-da), [Target-agnostic DA](#target-agnostic-da)
-- [Continuously Indexed DA](#continuously-indexed-da)
-- [Active DA](#active-da)
-- [Generalized Domain Adaptation](#generalized-domain-adaptation)
-- [Model Selection](#model-selection)
-- [Other Transfer Learning Paradigms](#other-transfer-learning-paradigms)
-  - [Domain Generalization](#domain-generalization)
-  - [Domain Randomization](#domain-randomization)
-  - [Transfer Metric Learning](#transfer-metric-learning)
-  - [Knowledge Transfer](#knowledge-transfer)
-  - [Others](#others)
+| Section | Subsection |
+| ------- | ----------- |
+| [Papers](#papers) | [Survey](#survey), [Theory](#theory), [Explainable](#explainable), [Federated DA](#federated-da), [Source Free DA](#source-free-da) |
+| [Unsupervised DA](#unsupervised-da) | [Adversarial Methods](#adversarial-methods), [Distance-based Methods](#distance-based-methods), [Information-based Methods](#information-based-methods), [Optimal Transport](#optimal-transport), [Incremental Methods](#incremental-methods), [Semi-Supervised-Learning-Based Methods](#semi-supervised-learning-based-methods), [Self-training-Based Methods](#self-training-based-methods), [Self-Supervised Methods](#self-supervised-methods), [Transformer-based Methods](#transformer-based-methods), [Other Methods](#other-methods) |
+| [Other DA Methods](#other-da-methods) | [Semi-supervised DA](#semi-supervised-da), [Weakly-Supervised DA](#weakly-supervised-da), [Zero-shot DA](#zero-shot-da), [One-shot DA](#one-shot-da), [Few-shot UDA](#few-shot-uda), [Few-shot DA](#few-shot-da), [Partial DA](#partial-da), [Open Set DA](#open-set-da), [Universal DA](#universal-da), [Open Compound DA](#open-compound-da), [Multi Source DA](#multi-source-da), [Multi Target DA](#multi-target-da), [Incremental DA](#incremental-da), [Multi Step DA](#multi-step-da), [Heterogeneous DA](#heterogeneous-da), [Target-agnostic DA](#target-agnostic-da), [Continuously Indexed DA](#continuously-indexed-da), [Active DA](#active-da), [Generalized Domain Adaptation](#generalized-domain-adaptation) |
+| [Other Transfer Learning Paradigms](#other-transfer-learning-paradigms) | [Domain Generalization](#domain-generalization), [Domain Randomization](#domain-randomization), [Transfer Metric Learning](#transfer-metric-learning), [Knowledge Transfer](#knowledge-transfer), [Others](#others) |
+| [Applications](#applications) | [Object Detection](#object-detection), [Semantic Segmentation](#semantic-segmentation), [Person Re-identification](#person-re-identification), [Sim-to-Real Transfer](#sim-to-real-transfer), [Video Domain Adaptation](#video-domain-adaptation), [Medical Related](#medical-related), [Monocular Depth Estimation](#monocular-depth-estimation), [3D](#3d), [Fine-Grained Domain](#fine-grained-domain), [LiDAR](#lidar), [Remote Sensing](#remote-sensing), [Others](#others-1) |
+| [Benchmarks](#benchmarks) | Datasets and Benchmarks |
+| [Library](#library) | Useful Libraries |
+| [Lectures and Tutorials](#lectures-and-tutorials) | Lectures, Tutorials |
+| [Other Resources](#other-resources) | Additional Resources |
 
-### Applications
-- [Object Detection](#object-detection)
-- [Semantic Segmentation](#semantic-segmentation)
-- [Person Re-identification](#person-re-identification)
-- [Sim-to-Real Transfer](#sim-to-real-transfer)
-- [Video Domain Adaptation](#video-domain-adaptation)
-- [Medical Related](#medical-related)
-- [Monocular Depth Estimation](#monocular-depth-estimation)
-- [3D](#3d)
-- [Fine-Grained Domain](#fine-grained-domain)
-- [LiDAR](#lidar)
-- [Remote Sensing](#remote-sensing)
-- [Others](#others-1)
-
-### Benchmarks
-- [Datasets and Benchmarks](#benchmarks)
-
-### Library
-- [Useful Libraries](#library)
-
-### Lectures and Tutorials
-- [Lectures](#lectures-and-tutorials)
-- [Tutorials](#lectures-and-tutorials)
-
-### Other Resources
-- [Additional Resources](#other-resources)
 
 
 # Papers
