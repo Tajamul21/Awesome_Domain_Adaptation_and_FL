@@ -165,54 +165,64 @@ Welcome to the **Awesome-Domain-Adaptative-FL** repository! This repository is a
 | Unsupervised Domain Adaptation by Backpropagation                                                                | ICML 2015         | [Link](http://proceedings.mlr.press/v37/ganin15.pdf)                 | [Caffe (Official)](https://github.com/ddtm/caffe/tree/grl), [TensorFlow](https://github.com/shucunt/domain_adaptation)    |
 
 **Journal**
-- Incremental Unsupervised Domain-Adversarial Training of Neural Networks [[TNNLS 2020]](https://ieeexplore.ieee.org/document/9216604)
-- Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice [[TPAMI2020]](https://arxiv.org/abs/2002.08681) [[PyTroch]](https://github.com/YBZh/MultiClassDA)
-- Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation [[IEEE ACCESS]](https://ieeexplore.ieee.org/document/8913529)
-- TarGAN: Generating target data with class labels for unsupervised domain adaptation [[Knowledge-Based Systems]]()
+| Title                                                                                          | Journal             | Year | Links                                                                         |
+|------------------------------------------------------------------------------------------------|---------------------|------|-------------------------------------------------------------------------------|
+| Incremental Unsupervised Domain-Adversarial Training of Neural Networks                        | TNNLS               | 2020 | [IEEE](https://ieeexplore.ieee.org/document/9216604)                          |
+| Unsupervised Multi-Class Domain Adaptation: Theory, Algorithms, and Practice                   | TPAMI               | 2020 | [arXiv](https://arxiv.org/abs/2002.08681) | [PyTorch](https://github.com/YBZh/MultiClassDA) |
+| Adversarial Learning and Interpolation Consistency for Unsupervised Domain Adaptation          | IEEE ACCESS         |      | [IEEE](https://ieeexplore.ieee.org/document/8913529)                          |
+| TarGAN: Generating target data with class labels for unsupervised domain adaptation            | Knowledge-Based Systems |      |                                                                           |
+
 
 **Arxiv**
-- Bi-Directional Generation for Unsupervised Domain Adaptation [[12 Feb 2020]](https://arxiv.org/abs/2002.04869v1)
-- Enlarging Discriminative Power by Adding an Extra Class in Unsupervised Domain Adaptation [[19 Feb 2020]](https://arxiv.org/abs/2002.08041v1) [[Tensorflow]](https://github.com/haitran14/gada)
-- Learning Domain Adaptive Features with Unlabeled Domain Bridges [[10 Dec 2019]](https://arxiv.org/abs/1912.05004v1)
-- Reducing Domain Gap via Style-Agnostic Networks [[25 Oct 2019]](https://arxiv.org/abs/1910.11645)
-- Generalized Domain Adaptation with Covariate and
-Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
-- Adversarial Variational Domain Adaptation [[25 Sep 2019]](https://arxiv.org/abs/1909.11651)
-- Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation [[arXiv 13 Sep 2019]](https://arxiv.org/abs/1909.05288)
-- SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation [[arXiv 11 Jun 2019]](https://arxiv.org/abs/1906.04338v1)
-- Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation [[arXiv 10 Jun 2019]](https://arxiv.org/abs/1906.04053v1)
-- Adversarial Domain Adaptation Being Aware of Class Relationships [[arXiv 28 May 2019]](https://arxiv.org/abs/1905.11931v1)
-- Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption [[arXiv 30 Nov 2018]](https://arxiv.org/abs/1811.12751)
-- Unsupervised Domain Adaptation using Deep Networks with Cross-Grafted Stacks [[arXiv 17 Feb 2019]](https://arxiv.org/abs/1902.06328v1)
-- DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification [[arXiv 30 Dec 2018]](https://arxiv.org/abs/1812.11478)
-- Unsupervised Domain Adaptation using Generative Models and Self-ensembling [[arXiv 2 Dec 2018]](https://arxiv.org/abs/1812.00479)
-- Domain Confusion with Self Ensembling for Unsupervised Adaptation [[arXiv 10 Oct 2018]](https://arxiv.org/abs/1810.04472)
-- Improving Adversarial Discriminative Domain Adaptation [[arXiv 10 Sep 2018]](https://arxiv.org/abs/1809.03625)
-- M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning [[arXiv 6 Jul 2018]](https://arxiv.org/abs/1807.02552v1) [[Code(official)]](https://github.com/IssamLaradji/M-ADDA)
-- Factorized Adversarial Networks for Unsupervised Domain Adaptation [[arXiv 4 Jun 2018]](https://arxiv.org/abs/1806.01376v1)
-- DiDA: Disentangled Synthesis for Domain Adaptation [[arXiv 21 May 2018]](https://arxiv.org/abs/1805.08019v1)
-- Unsupervised Domain Adaptation with Adversarial Residual Transform Networks [[arXiv 25 Apr 2018]](https://arxiv.org/abs/1804.09578)
-- Causal Generative Domain Adaptation Networks [[arXiv 28 Jun 2018]](https://arxiv.org/abs/1804.04333v3)
+| Title                                                                                          | Date            | Links                                                                        |
+|------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------|
+| Bi-Directional Generation for Unsupervised Domain Adaptation                                   | 12 Feb 2020     | [arXiv](https://arxiv.org/abs/2002.04869v1)                                   |
+| Enlarging Discriminative Power by Adding an Extra Class in Unsupervised Domain Adaptation      | 19 Feb 2020     | [arXiv](https://arxiv.org/abs/2002.08041v1) | [Tensorflow](https://github.com/haitran14/gada) |
+| Learning Domain Adaptive Features with Unlabeled Domain Bridges                                | 10 Dec 2019     | [arXiv](https://arxiv.org/abs/1912.05004v1)                                   |
+| Reducing Domain Gap via Style-Agnostic Networks                                                | 25 Oct 2019     | [arXiv](https://arxiv.org/abs/1910.11645)                                     |
+| Generalized Domain Adaptation with Covariate and Label Shift CO-ALignment                      | 23 Oct 2019     | [arXiv](https://arxiv.org/abs/1910.10320)                                     |
+| Adversarial Variational Domain Adaptation                                                      | 25 Sep 2019     | [arXiv](https://arxiv.org/abs/1909.11651)                                     |
+| Contrastively Smoothed Class Alignment for Unsupervised Domain Adaptation                      | 13 Sep 2019     | [arXiv](https://arxiv.org/abs/1909.05288)                                     |
+| SALT: Subspace Alignment as an Auxiliary Learning Task for Domain Adaptation                   | 11 Jun 2019     | [arXiv](https://arxiv.org/abs/1906.04338v1)                                   |
+| Joint Semantic Domain Alignment and Target Classifier Learning for Unsupervised Domain Adaptation | 10 Jun 2019     | [arXiv](https://arxiv.org/abs/1906.04053v1)                                   |
+| Adversarial Domain Adaptation Being Aware of Class Relationships                               | 28 May 2019     | [arXiv](https://arxiv.org/abs/1905.11931v1)                                   |
+| Domain-Invariant Adversarial Learning for Unsupervised Domain Adaption                         | 30 Nov 2018     | [arXiv](https://arxiv.org/abs/1811.12751)                                     |
+| Unsupervised Domain Adaptation using Deep Networks with Cross-Grafted Stacks                   | 17 Feb 2019     | [arXiv](https://arxiv.org/abs/1902.06328v1)                                   |
+| DART: Domain-Adversarial Residual-Transfer Networks for Unsupervised Cross-Domain Image Classification | 30 Dec 2018 | [arXiv](https://arxiv.org/abs/1812.11478)                                     |
+| Unsupervised Domain Adaptation using Generative Models and Self-ensembling                     | 2 Dec 2018      | [arXiv](https://arxiv.org/abs/1812.00479)                                     |
+| Domain Confusion with Self Ensembling for Unsupervised Adaptation                              | 10 Oct 2018     | [arXiv](https://arxiv.org/abs/1810.04472)                                     |
+| Improving Adversarial Discriminative Domain Adaptation                                         | 10 Sep 2018     | [arXiv](https://arxiv.org/abs/1809.03625)                                     |
+| M-ADDA: Unsupervised Domain Adaptation with Deep Metric Learning                               | 6 Jul 2018      | [arXiv](https://arxiv.org/abs/1807.02552v1) | [Code(official)](https://github.com/IssamLaradji/M-ADDA) |
+| Factorized Adversarial Networks for Unsupervised Domain Adaptation                             | 4 Jun 2018      | [arXiv](https://arxiv.org/abs/1806.01376v1)                                   |
+| DiDA: Disentangled Synthesis for Domain Adaptation                                             | 21 May 2018     | [arXiv](https://arxiv.org/abs/1805.08019v1)                                   |
+| Unsupervised Domain Adaptation with Adversarial Residual Transform Networks                    | 25 Apr 2018     | [arXiv](https://arxiv.org/abs/1804.09578)                                     |
+| Causal Generative Domain Adaptation Networks                                                   | 28 Jun 2018     | [arXiv](https://arxiv.org/abs/1804.04333v3)                                   |
+
 
 
 ### Distance-based Methods
-**Journal**
 
-- Transferable Representation Learning with Deep Adaptation Networks [[TPAMI]](https://ieeexplore.ieee.org/document/8454781)
-- Robust unsupervised domain adaptation for neural networks via moment alignment [[InfSc2019]](https://www.sciencedirect.com/science/article/abs/pii/S0020025519300301)
+**Journal**
+| Title                                                                                          | Date            | Links                                                                        |
+|------------------------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------------------|
+| Transferable Representation Learning with Deep Adaptation Networks                             |                 | [TPAMI](https://ieeexplore.ieee.org/document/8454781)                         |
+| Robust unsupervised domain adaptation for neural networks via moment alignment                 |                 | [InfSc2019](https://www.sciencedirect.com/science/article/abs/pii/S0020025519300301) |
 
 **Conference**
-- Domain Conditioned Adaptation Network [[AAAI2020]](https://arxiv.org/abs/2005.06717) [[Code]](https://github.com/BIT-DA/DCAN)
-- HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation [[AAAI2020]](https://arxiv.org/abs/1912.11976) [[Tensorflow]](https://github.com/chenchao666/HoMM-Master)
-- Normalized Wasserstein for Mixture Distributions With Applications in Adversarial Learning and Domain Adaptation [[ICCV2019]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Balaji_Normalized_Wasserstein_for_Mixture_Distributions_With_Applications_in_Adversarial_Learning_ICCV_2019_paper.pdf)
-- Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation [[AAAI2019]](https://arxiv.org/abs/1808.09347v2)
-- Residual Parameter Transfer for Deep Domain Adaptation [[CVPR2018]](https://arxiv.org/abs/1711.07714)
-- Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation [[AAAI2018]](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DATN.pdf)
-- Central Moment Discrepancy for Unsupervised Domain Adaptation [[ICLR2017]](https://openreview.net/pdf?id=SkB-_mcel), [[InfSc2019]](https://arxiv.org/pdf/1711.06114.pdf), [[code]](https://github.com/wzell/cmd)
-- Deep CORAL: Correlation Alignment for Deep Domain Adaptation [[ECCV2016]](https://arxiv.org/abs/1607.01719)
-- Learning Transferable Features with Deep Adaptation Networks [[ICML2015]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-adaptation-networks-icml15.pdf)[[code]](https://github.com/thuml/DAN)
-- Unsupervised Domain Adaptation with Residual Transfer Networks [[NIPS2016]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/residual-transfer-network-nips16.pdf) [[code]](https://github.com/thuml/Xlearn)
-- Deep Transfer Learning with Joint Adaptation Networks [[ICML2017]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-adaptation-networks-icml17.pdf) [[code]](https://github.com/thuml/Xlearn)
+| Title                                                                                          | Conference  | Links                                                                                   |
+|------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Domain Conditioned Adaptation Network                                                          | AAAI 2020   | [Paper](https://arxiv.org/abs/2005.06717) | [Code](https://github.com/BIT-DA/DCAN)                         |
+| HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation                          | AAAI 2020   | [Paper](https://arxiv.org/abs/1912.11976) | [Tensorflow](https://github.com/chenchao666/HoMM-Master)        |
+| Normalized Wasserstein for Mixture Distributions With Applications in Adversarial Learning and Domain Adaptation | ICCV 2019   | [Paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Balaji_Normalized_Wasserstein_for_Mixture_Distributions_With_Applications_in_Adversarial_Learning_ICCV_2019_paper.pdf) |
+| Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation | AAAI 2019   | [Paper](https://arxiv.org/abs/1808.09347v2)                                             |
+| Residual Parameter Transfer for Deep Domain Adaptation                                         | CVPR 2018   | [Paper](https://arxiv.org/abs/1711.07714)                                               |
+| Deep Asymmetric Transfer Network for Unbalanced Domain Adaptation                              | AAAI 2018   | [Paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DATN.pdf)            |
+| Central Moment Discrepancy for Unsupervised Domain Adaptation                                  | ICLR 2017   | [Paper](https://openreview.net/pdf?id=SkB-_mcel) | [InfSc2019](https://arxiv.org/pdf/1711.06114.pdf) | [Code](https://github.com/wzell/cmd) |
+| Deep CORAL: Correlation Alignment for Deep Domain Adaptation                                   | ECCV 2016   | [Paper](https://arxiv.org/abs/1607.01719)                                               |
+| Learning Transferable Features with Deep Adaptation Networks                                   | ICML 2015   | [Paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/deep-adaptation-networks-icml15.pdf) | [Code](https://github.com/thuml/DAN) |
+| Unsupervised Domain Adaptation with Residual Transfer Networks                                 | NIPS 2016   | [Paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/residual-transfer-network-nips16.pdf) | [Code](https://github.com/thuml/Xlearn) |
+| Deep Transfer Learning with Joint Adaptation Networks                                          | ICML 2017   | [Paper](http://ise.thss.tsinghua.edu.cn/~mlong/doc/joint-adaptation-networks-icml17.pdf) | [Code](https://github.com/thuml/Xlearn) |
+
 
 **Arxiv**
 - Deep Domain Confusion: Maximizing for Domain Invariance [[Arxiv 2014]](https://arxiv.org/abs/1412.3474)
@@ -224,19 +234,22 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 ### Optimal Transport
 **Conference**
-- Global-Local Regularization Via Distributional Robustness [[AISTATS2023]](https://arxiv.org/abs/2203.00553) [[Code]](https://github.com/VietHoang1512/GLOT/)
-- MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning [[UAI2021]](https://auai.org/uai2021/pdf/uai2021.106.pdf)
-- LAMDA: Label Matching Deep Domain Adaptation [[ICML2021]](http://proceedings.mlr.press/v139/le21a.html)
-- TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport [[IJCAI2021]](https://www.ijcai.org/proceedings/2021/0394.pdf) 
-- Unbalanced minibatch Optimal Transport; applications to Domain Adaptation [[ICML2021]](https://arxiv.org/abs/2103.03606) [[Code]](https://github.com/kilianFatras/JUMBOT)
-- Graph Optimal Transport for Cross-Domain Alignment [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/971-Paper.pdf)
-- Margin-aware Adversarial Domain Adaptation with Optimal Transport [[ICML2020]](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) [[code]](https://github.com/sofiendhouib/MADAOT)
-- Metric Learning in Optimal Transport for Domain Adaptation [[IJCAI2020]](https://www.ijcai.org/Proceedings/2020/0299.pdf)
-- Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Reliable_Weighted_Optimal_Transport_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf)
-- Enhanced Transport Distance for Unsupervised Domain Adaptation [[CVPR2020]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) [[Code]](https://github.com/yimzhai3/ETD)
-- Differentially Private Optimal Transport: Application to Domain Adaptation [[IJCAI2019]](https://www.ijcai.org/proceedings/2019/0395.pdf)
-- DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation [[ECCV2018]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) [[Keras]](https://github.com/bbdamodaran/deepJDOT)
-- Joint Distribution Optimal Transportation for Domain Adaptation [[NIPS2017]](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) [[python]](https://github.com/rflamary/JDOT) [[Python Optimal Transport Library]](https://github.com/rflamary/POT)
+| Title                                                                                          | Conference  | Links                                                                                   |
+|------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------|
+| Global-Local Regularization Via Distributional Robustness                                      | AISTATS 2023 | [Paper](https://arxiv.org/abs/2203.00553) | [Code](https://github.com/VietHoang1512/GLOT/) |
+| MOST: Multi-Source Domain Adaptation via Optimal Transport for Student-Teacher Learning        | UAI 2021    | [Paper](https://auai.org/uai2021/pdf/uai2021.106.pdf)                                  |
+| LAMDA: Label Matching Deep Domain Adaptation                                                   | ICML 2021   | [Paper](http://proceedings.mlr.press/v139/le21a.html)                                   |
+| TIDOT: A Teacher Imitation Learning Approach for Domain Adaptation with Optimal Transport      | IJCAI 2021  | [Paper](https://www.ijcai.org/proceedings/2021/0394.pdf)                                |
+| Unbalanced minibatch Optimal Transport; applications to Domain Adaptation                      | ICML 2021   | [Paper](https://arxiv.org/abs/2103.03606) | [Code](https://github.com/kilianFatras/JUMBOT) |
+| Graph Optimal Transport for Cross-Domain Alignment                                             | ICML 2020   | [Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/971-Paper.pdf)         |
+| Margin-aware Adversarial Domain Adaptation with Optimal Transport                              | ICML 2020   | [Paper](https://proceedings.icml.cc/static/paper_files/icml/2020/2666-Paper.pdf) | [Code](https://github.com/sofiendhouib/MADAOT) |
+| Metric Learning in Optimal Transport for Domain Adaptation                                     | IJCAI 2020  | [Paper](https://www.ijcai.org/Proceedings/2020/0299.pdf)                                |
+| Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation                         | CVPR 2020   | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Reliable_Weighted_Optimal_Transport_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) |
+| Enhanced Transport Distance for Unsupervised Domain Adaptation                                 | CVPR 2020   | [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf) | [Code](https://github.com/yimzhai3/ETD) |
+| Differentially Private Optimal Transport: Application to Domain Adaptation                     | IJCAI 2019  | [Paper](https://www.ijcai.org/proceedings/2019/0395.pdf)                                |
+| DeepJDOT: Deep Joint distribution optimal transport for unsupervised domain adaptation         | ECCV 2018   | [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bharath_Bhushan_Damodaran_DeepJDOT_Deep_Joint_ECCV_2018_paper.pdf) | [Keras](https://github.com/bbdamodaran/deepJDOT) |
+| Joint Distribution Optimal Transportation for Domain Adaptation                                | NIPS 2017   | [Paper](http://papers.nips.cc/paper/6963-joint-distribution-optimal-transportation-for-domain-adaptation.pdf) | [Python](https://github.com/rflamary/JDOT) | [Python Optimal Transport Library](https://github.com/rflamary/POT) |
+
 
 **Arxiv**
 - CDOT: Continuous Domain Adaptation using Optimal Transport [[20 Sep 2019]](https://arxiv.org/abs/1909.11448)
@@ -252,11 +265,14 @@ Label Shift CO-ALignment [[23 Oct 2019]](https://arxiv.org/abs/1910.10320)
 
 
 ### Self-training-Based Methods
-- Cycle Self-Training for Domain Adaptation [[NeurIPS2021]](https://proceedings.neurips.cc/paper/2021/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)
-- Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark [[ICCV Workshop 2021]](https://arxiv.org/abs/2108.10840) [[Code]](https://github.com/bupt-ai-cz/Meta-SelfLearning)
-- Instance Adaptive Self-Training for Unsupervised Domain Adaptation [[ECCV 2020]](https://arxiv.org/abs/2008.12197) [[Code]](https://github.com/bupt-ai-cz/IAST-ECCV2020)
-- Self-training Avoids Using Spurious Features Under Domain Shift [[NeurIPS 2020]](https://arxiv.org/abs/2006.10032)
-- Two-phase Pseudo Label Densification for Self-training based Domain Adaptation [[ECCV2020]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)
+| Title                                                                                           | Conference            | Links                                                                                                                         |
+|-------------------------------------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Cycle Self-Training for Domain Adaptation                                                       | NeurIPS 2021          | [Paper](https://proceedings.neurips.cc/paper/2021/hash/c1fea270c48e8079d8ddf7d06d26ab52-Abstract.html)                         |
+| Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark                              | ICCV Workshop 2021    | [Paper](https://arxiv.org/abs/2108.10840) | [Code](https://github.com/bupt-ai-cz/Meta-SelfLearning)                                 |
+| Instance Adaptive Self-Training for Unsupervised Domain Adaptation                              | ECCV 2020             | [Paper](https://arxiv.org/abs/2008.12197) | [Code](https://github.com/bupt-ai-cz/IAST-ECCV2020)                                     |
+| Self-training Avoids Using Spurious Features Under Domain Shift                                 | NeurIPS 2020          | [Paper](https://arxiv.org/abs/2006.10032)                                                                                     |
+| Two-phase Pseudo Label Densification for Self-training based Domain Adaptation                  | ECCV 2020             | [Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580528.pdf)                                                |
+
 
 **Arxiv**
 - Probabilistic Contrastive Learning for Domain Adaptation [[arXiv 20211]](https://arxiv.org/abs/2111.06021) [[Code]](https://github.com/ljjcoder/Probabilistic-Contrastive-Learning)
