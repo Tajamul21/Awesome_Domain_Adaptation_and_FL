@@ -1,5 +1,5 @@
 
-# Awesome-Domain-Adaptatiion-and-Federated-Learning
+# Awesome-Domain-Adaptation-and-Federated-Learning
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
