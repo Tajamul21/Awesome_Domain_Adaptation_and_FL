@@ -1,4 +1,4 @@
-# awesome-domain-adaptation
+# Awesome-Domain-Adaptative-FL
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 
